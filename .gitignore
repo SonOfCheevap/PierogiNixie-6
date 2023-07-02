@@ -10,6 +10,10 @@
 *-backups
 *.kicad_prl
 *.sch-bak
+.DS_Store
+*.kicad_wks
+fp-lib-table
+sym-lib-table
 *~
 _autosave-*
 *.tmp
